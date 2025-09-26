@@ -117,7 +117,7 @@ where $\| \cdot \|$ is the 2-norm.
 ```
 
 ```{div} note
-The operator norm satisies the property $\| A \boldsymbol{x} \| \leq \| A \| \| \boldsymbol{x} \|$ for all $\boldsymbol{x} \in \mathbb{R}^n$.
+The operator norm satisfies the property $\| A \boldsymbol{x} \| \leq \| A \| \| \boldsymbol{x} \|$ for all $\boldsymbol{x} \in \mathbb{R}^n$.
 ```
 
 ````{div} theorem
